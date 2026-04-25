@@ -18,7 +18,7 @@
 
 ### 👨🏽‍💻 Sobre mim
 
-Estudante de Engenharia de Software na USJT (7º semestre), estagiando em TI na EDUXE. Trabalho com **desenvolvimento web**, **testes de software** e **migração de banco de dados (MySQL/Firebird)** com apoio de IA. Focado em crescer como desenvolvedor web e mobile.
+Estudante de Engenharia de Software na USJT (7º semestre), estagiando em TI na EDUXE. Trabalho com **desenvolvimento web**, **testes de software** e **migração de banco de dados (MySQL/Firebird)** com manipulação e automação de IA. Focado em crescer como desenvolvedor web e mobile.
 
 ---
 
